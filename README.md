@@ -1,3 +1,4 @@
+### Project Overview
 The "[Financial Report](https://github.com/OLUJUWON-OMOTOBA/Project-7/blob/main/Finance%20Report.pbix)" Power BI project is designed to provide a comprehensive and interactive overview of an organization's financial performance. This project involves collecting, analyzing, and visualizing financial data to enable stakeholders to gain insights into key financial metrics and make informed decisions. Here's an overview of the key components and features that might be included in the "Financial Report" Power BI project:
 
 1. **Data Sources:**

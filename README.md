@@ -42,3 +42,5 @@ The "[Financial Report](https://github.com/OLUJUWON-OMOTOBA/Project-7/blob/main/
     - Integration with other relevant systems, such as CRM platforms or inventory management systems, for a holistic view of business operations.
 
 The "Financial Report" Power BI project serves as a powerful tool for financial analysts, executives, and stakeholders to monitor and understand the organization's financial health, identify trends, and make informed decisions to drive financial success and sustainability.
+![image](https://github.com/OLUJUWON-OMOTOBA/Project-7/assets/134015058/90278ae5-b995-4308-a3a3-f62a25f4f7e9)
+
